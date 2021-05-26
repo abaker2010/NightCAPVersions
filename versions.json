@@ -1,0 +1,10 @@
+{
+    "stable" : {
+        "build" : "1",
+        "version" : "2"
+    },
+    "dev" : {
+        "build" : "1",
+        "version" : "2"
+    }
+}
